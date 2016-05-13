@@ -26,6 +26,6 @@ facilitate optimal reusability.
 ## Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
 At the upcoming [Mozilla Science Lab Global Sprint
-2016](https://www.mozillascience.org/) -- an event with local and
-virtual meetings -- we will work on the compendium. Again, you are
-invited to join us. Stay tuned.
+2016](https://www.mozillascience.org/global-sprint-2016) -- an event
+with local and virtual meetings -- we will work on the
+compendium. Again, you are invited to join us. Stay tuned.
