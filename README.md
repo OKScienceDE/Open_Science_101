@@ -20,7 +20,8 @@ collection but in our opinion there is no comprehensive resource
 covering all the required topics.
 
 The content of this collection is licensed under a [Creative Common
-Zero license](https://creativecommons.org/publicdomain/zero/1.0/) to
+Zero license](https://creativecommons.org/publicdomain/zero/1.0/) 
+(public domain) to
 facilitate optimal reusability.
 
 ## Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
