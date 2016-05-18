@@ -4,11 +4,11 @@
 
 This compendium aims include documentation of the different facets of
 Open Science like Open Access, Open Data, Open Source, Open Peer
-Review. Our definition of Open Science is very broad - it also covers
-the opening of the humanities as well as Open Educational Resources
-and other related topics. "Open Science 101" is the current working
-title and might be changed in the future dependent on the actual
-content.
+Review and communicate the underlying principles and motivations. Our
+definition of Open Science is very broad - it also covers the opening
+of the humanities as well as Open Educational Resources and other
+related topics. "Open Science 101" is the current working title and
+might be changed in the future dependent on the actual content.
 
 Currently we are collecting ideas about the scope via the [issue
 tracker](https://github.com/OKScienceDE/Open_Science_101/issues) and
