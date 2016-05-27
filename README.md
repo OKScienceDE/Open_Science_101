@@ -36,3 +36,7 @@ At the upcoming [Mozilla Science Lab Global Sprint
 with local and virtual meetings -- we will work on the
 compendium. Again, you are invited to join us (which you can announce here:
 https://github.com/mozillascience/global-sprint-2016/issues/36). Stay tuned.
+
+## Further Information
+
+For additional information, please also refer to the [Wiki](https://github.com/OKScienceDE/Open_Science_101/wiki).
