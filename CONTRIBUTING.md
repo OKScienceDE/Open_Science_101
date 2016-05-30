@@ -2,7 +2,9 @@
 
 ##  What to know before you get started?
 
-This project adheres to a simple code of conduct. By participating, you are expected to uphold this code. To put it in a nutshell: please always be nice and always try to be constructive!
+This project adheres to a simple code of conduct. By participating, you are expected to uphold this code.
+
+_To put it in a nutshell: please always be nice and always try to be constructive!_
 
 ## How can you contribute?
 
@@ -33,5 +35,5 @@ If you want to get in contact you can do so (for the moment) via Twitter:
 + [Matthias Fromm](https://twitter.com/matthiasfromm)
 + [Konrad Förstner](https://twitter.com/konradfoerstner)
 
-If you have questions/remarks regarding specific topics or issues, please leave comments in the related issues.
+If you have questions/remarks regarding specific topics or issues, please leave comments in the related [issues](https://github.com/OKScienceDE/Open_Science_101/issues).
 
