@@ -77,7 +77,7 @@ We are aware that this is not the first attempt to generate such a
 collection but in our opinion there is no comprehensive resource
 covering all the required topics.
 
-The content of this collection is licensed under a [Creative Common Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
+The content of this collection is licensed under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
 (public domain) to facilitate optimal reusability.
 
 ## Contributing
