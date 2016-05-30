@@ -1,8 +1,7 @@
-# Open Science 101 (working title)
+# About "Open Science 101" (working title)
 
-## About
 
-### General Problem
+## General Problem
 
 The principles and facets of open science have become increasingly
 noted throughout the last couple of years. However, whereas Open
@@ -14,7 +13,7 @@ a case of "preaching to the converted", but to give anybody an
 understanding of the concepts, principles, opportunities and challenges
 of the related subjects.
 
-### Aim
+## Aim
 
 There are quite a number of approaches how this can be undertaken and
 a number of projects doing this for either certain topics or certain
@@ -26,12 +25,43 @@ like Open Access, Open Data, Open Source, and Open Peer Review
 broad - it also covers the opening of the humanities as well as
 Open Educational Resources and other related topics.
 
-**"Open Science 101" is the current working title and might be changed
-in the future dependent on the actual content.**
+_"Open Science 101" is the current working title and might be changed
+in the future dependent on the actual content._
 
-### Current Status
+### What we DON'T want to achieve
 
-**Current Status: IN PREPARATION**
+The outcome of this project shall be more than merely a collection of
+resources (e.g. tools) supporting or Open Science within different
+disciplinary contexts. This is for 2 reasons:
+1. Such a collection - in the most basic form this could be a list,
+in a more sophisticated form this could be a database - would be very
+difficult to maintain as old tools and service are discontinued or new
+tools arise in quite a rapid manner.
+2. Such a collection would be quite extensive in its scope and would
+quickly become long and more difficult to handle for interested users. In
+addition many of the listed tools and services might be mainly relevant to
+specific contexts (disciplines), but not very useful in others. This might
+limit the usefulness of the collection itself.
+
+However, there are attemts to do such a thing (blogposts, wiki lists, etc.).
+
+### What we DO want to achieve
+
+Instead we want to come up with is a set of educational resources that
+provides usable teaching material elaborating the basic principles of Open
+Science that most of the different contexts (e.g. disciplines), if not all,
+have in common.
+
+This material can then be easily adapted (e.g. forked) and complemented by
+e.g. domain-specific tools, regulations, or any other particular topics.
+
+Over time, this would hopefully build a extended variety of educational material
+for many different contexts.
+
+
+## Current Status
+
+_Current Status: IN PREPARATION_
 
 Currently we are [collecting ideas](https://github.com/OKScienceDE/Open_Science_101/issues)
 about the scope via the issue tracker and would invite everybody to
