@@ -6,7 +6,7 @@
 The principles and facets of open science have become increasingly
 noted throughout the last couple of years. However, whereas Open
 Access has gained quite a lot of visibility, other facets are hardly
-visible and even less in action. Infact, many of the facets and
+visible and even less in action. In fact, many of the facets and
 principles are mainly known to those who are interested in working
 openly anyway. Fostering (facets of) Open Science should not only be
 a case of "preaching to the converted", but to give anybody an
@@ -95,4 +95,4 @@ https://github.com/mozillascience/global-sprint-2016/issues/36).
 There will be 2 sites where we will be available in person during the sprint:
 
 1. On Thursday Matthias will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
-2. On Friday Andreas and Konrad will be available in Würzburg (place to be announced soon)
+2. On Friday Andreas and Konrad will be available at the [University of Würzburg](https://www.uni-wuerzburg.de/en/ueber/university/) (exact location to be announced soon)
