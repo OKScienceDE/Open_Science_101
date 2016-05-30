@@ -90,4 +90,8 @@ how and where!
 At the upcoming [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
 -- an event with local and virtual meetings -- we will work on the
 compendium. Again, you are invited to join us (which you can announce here:
-https://github.com/mozillascience/global-sprint-2016/issues/36). Stay tuned.
+https://github.com/mozillascience/global-sprint-2016/issues/36).
+
+There will be 2 sites where we will be available in person during the sprint:
+1. On Thursday Matthias will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
+2. On Friday Andreas and Konrad will be available in Würzburg (place to be announced soon)
