@@ -1,16 +1,37 @@
-# Contributing to this project
+# Contributing to this Project
 
-## Collecting Ideas
+##  What to know before you get started?
 
-As this project is currently in a preparation phase, the best starting point to contribute is to help us with collecting ideas and discussion them. Please feel invited to go over to the [issues section](https://github.com/OKScienceDE/Open_Science_101/issues) - you will find good starting points within the [milestones](https://github.com/OKScienceDE/Open_Science_101/milestones).
+This project adheres to a simple code of conduct. By participating, you are expected to uphold this code. To put it in a nutshell: please always be nice and always try to be constructive!
 
-## Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
+## How can you contribute?
+
+### Collecting Ideas, Reporting Bugs, Suggesting Enhancements
+
+**Ideas:** As this project is currently in a preparation phase, the best starting point to contribute is to help us with collecting ideas and discussion them. Please feel invited to go over to the [issues section](https://github.com/OKScienceDE/Open_Science_101/issues) - you will find good starting points within the [milestones](https://github.com/OKScienceDE/Open_Science_101/milestones).
+
+**Bugs:** If you identify any bugs, please contribute [issues](https://github.com/OKScienceDE/Open_Science_101/issues) and let us know about it. You can find [help mastering issues here](https://guides.github.com/features/issues/). Please try to be as specific as you can!
+
+**Enhancement suggestions:** If you have further ideas, please also use [issues](https://github.com/OKScienceDE/Open_Science_101/issues) to give us a note. Please make sure you've shortly looked through the existing ones to check whether your ideas is already on the table. If there is a similar idea, please consider commenting on that one and elaborate on what you would change or add!
+
+
+### Participate in the Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
 At the upcoming Mozilla Science Lab Global Sprint 2016 -- an event with local and virtual meetings -- we will work on the compendium. Again, you are invited to join us (which you can announce here: https://github.com/mozillascience/global-sprint-2016/issues/36).
 
 For the 2 days sprint we've created a [related milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016) that contains the issues we want to want particularly concentrate on within the sprint - these are also good starting points if you want to join!
 
-## Roadmap
+## Further Steps: Roadmap
 
 Over time we will develop/extent a [roadmap](https://github.com/OKScienceDE/Open_Science_101/wiki/Roadmap) that provides a bit more oversight of what the current goals are and what the next goals will be.
+
+## Getting in Contact, Asking for Help
+
+If you want to get in contact you can do so (for the moment) via Twitter:
+
++ [Andreas Leimbach](https://twitter.com/aleimba)
++ [Matthias Fromm](https://twitter.com/matthiasfromm)
++ [Konrad Förstner](https://twitter.com/konradfoerstner)
+
+If you have questions/remarks regarding specific topics or issues, please leave comments in the related issues.
 
