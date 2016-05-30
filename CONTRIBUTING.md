@@ -23,6 +23,11 @@ At the upcoming Mozilla Science Lab Global Sprint 2016 -- an event with local an
 
 For the 2 days sprint we've created a [related milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016) that contains the issues we want to want particularly concentrate on within the sprint - these are also good starting points if you want to join!
 
+There will be 2 sites where we will be available in person during the sprint:
+
+1. On Thursday Matthias will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
+2. On Friday Andreas and Konrad will be available in Würzburg (place to be announced soon)
+
 ## Further Steps: Roadmap
 
 Over time we will develop/extent a [roadmap](https://github.com/OKScienceDE/Open_Science_101/wiki/Roadmap) that provides a bit more oversight of what the current goals are and what the next goals will be.
