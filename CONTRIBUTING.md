@@ -2,7 +2,7 @@
 
 ##  What to know before you get started?
 
-This project adheres to a simple code of conduct. By participating, you are expected to uphold this code.
+This project adheres to a simple [code of conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
 
 _To put it in a nutshell: please always be nice and always try to be constructive!_
 
