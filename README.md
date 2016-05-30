@@ -1,5 +1,14 @@
 # About "Open Science 101" (working title)
 
+## Table of content
+
+1. [General Problem](#general-problem)
+2. [Aim](#aim)
+3. [What we DON'T want to achieve](#what-we-dont-want-to-achieve)
+4. [What we DO want to achieve](#what-we-do-want-to-achieve)
+5. [Current Status](#current-status)
+6. [Contributing](#contributing)
+7. [Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)](#mozilla-science-lab-global-sprint-2016-2nd---3rd-june-2016)
 
 ## General Problem
 
@@ -32,11 +41,11 @@ in the future dependent on the actual content._
 
 The outcome of this project shall be more than merely a collection of
 resources (e.g. tools) supporting or Open Science within different
-disciplinary contexts. This is for 2 reasons:
+disciplinary contexts. This is for two reasons:
 
 1. Such a collection - in the most basic form this could be a list,
 in a more sophisticated form this could be a database - would be very
-difficult to maintain as old tools and service are discontinued or new
+difficult to maintain as old tools and services are discontinued or new
 tools arise in quite a rapid manner.
 2. Such a collection would be quite extensive in its scope and would
 quickly become long and more difficult to handle for interested users. In
@@ -48,17 +57,16 @@ However, there are attemts to do such a thing (blogposts, wiki lists, etc.).
 
 ### What we DO want to achieve
 
-Instead we want to come up with is a set of educational resources that
-provides usable teaching material elaborating the basic principles of Open
+Instead we want to come up with a set of educational resources that
+provide usable teaching material elaborating the basic principles of Open
 Science that most of the different contexts (e.g. disciplines), if not all,
 have in common.
 
 This material can then be easily adapted (e.g. forked) and complemented by
 e.g. domain-specific tools, regulations, or any other particular topics.
 
-Over time, this would hopefully build a extended variety of educational material
+Over time, this would hopefully build an extended variety of educational material
 for many different contexts.
-
 
 ## Current Status
 
@@ -84,7 +92,7 @@ The content of this collection is licensed under a [Creative Commons Zero licens
 ## Contributing
 
 We're happy to invite you to contribute, [please have a look](https://github.com/OKScienceDE/Open_Science_101/blob/master/CONTRIBUTING.md)
-how and where!
+how and where! We expect of all participants to follow the [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
@@ -93,7 +101,7 @@ At the upcoming [Mozilla Science Lab Global Sprint 2016](https://www.mozillascie
 compendium. Again, you are invited to join us (which you can announce here:
 https://github.com/mozillascience/global-sprint-2016/issues/36).
 
-There will be 2 sites where we will be available in person during the sprint:
+There will be two sites where we will be available in person during the sprint:
 
 1. On Thursday Matthias will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
 2. On Friday Andreas and Konrad will be available at the [University of Würzburg](https://www.uni-wuerzburg.de/en/ueber/university/) (exact location to be announced soon)
