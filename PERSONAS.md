@@ -25,12 +25,13 @@ she cannot squeez into her tight schedule.
 
 ### Dante (contributor)
 
-- not strong technical skills
+- no strong technical skills but understanding of the topic
 
 ### Nick (student)
 
 Nick is a student of Physics and will soon start his Master in
 semi-conductor quantum mechanics.
+
 
 ## Pathways
 
