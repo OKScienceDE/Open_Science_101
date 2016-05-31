@@ -60,10 +60,12 @@ writes an email to the maintainer of the material.
 
 Aimee is a the maintainer of topic Open Peer review. She ...
 
-- ... understand the main philosophy of the Open Science 101
-- ... has deep knowledge of Open Science
-- ... is decatated to work on a topic and write main text
-- ... is able to handle git and write Markdown
+- ... is since several year a member of the Open Science community
+- ... has deep knowledge of Open Science and and practices it
+- ... understands the main philosophy of the Open Science 101
+- ... is decatated to work on a topic
+- ... is responsible for writing the main text
+- ... is able to handle git and to write Markdown
 - ... is able to communicate with others and to moderate disussions
 - ... is involved in the discussion about the format and styles
 
@@ -82,3 +84,4 @@ content community. He ...
 
 - ... is very skilled in generating informative and beatiful graphics
   that explain difficult topic in an easy way
+- ... has a basic understanding of Open Science
