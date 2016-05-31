@@ -102,8 +102,8 @@ compendium. Again, you are invited to join us (which you can announce here:
 https://github.com/mozillascience/global-sprint-2016/issues/36).
 
 For the two days sprint we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
-that contains the issues we want to particularly concentrate on within the sprint
-- these are also good starting points if you want to join!
+that contains the issues we want to particularly concentrate on within the sprint - these
+are also good starting points if you want to join!
 
 There will be two sites where we will be available in person during the sprint:
 
