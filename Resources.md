@@ -22,6 +22,8 @@ available from thier [GitHub repository](https://github.com/StilettoFiend/OpenSc
 [Software Carpentry](https://software-carpentry.org/lessons/) provides videos and materials with an emphasis on version
 control, MatLab, R, and Python.
 
+[OpenAIRE material](https://www.openaire.eu/support/)
+
 ## Training Services
 
 [Software Carpentry](http://software-carpentry.org/workshops/) offers workshops.
