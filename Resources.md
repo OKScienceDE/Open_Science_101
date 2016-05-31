@@ -41,3 +41,5 @@ Again, read the Wikipedia pages for [Open Science](https://en.wikipedia.org/wiki
 and [Open Research](https://en.wikipedia.org/wiki/Open_research).  These articles inclue a number
 of references to projects, initiatives, and organizations.
 
+[Resource at FOSTER](https://www.fosteropenscience.eu/resources)
+
