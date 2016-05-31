@@ -105,3 +105,6 @@ There will be two sites where we will be available in person during the sprint:
 
 1. On Thursday Matthias will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
 2. On Friday Andreas and Konrad will be available at the [University of Würzburg](https://www.uni-wuerzburg.de/en/ueber/university/) (exact location to be announced soon)
+
+Further information including how to join us remotely can be found in
+[this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint).
