@@ -112,3 +112,9 @@ There will be two sites where we will be available in person during the sprint:
 
 Further information including how to join us remotely can be found in
 [this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint).
+
+## License
+
+![Creative Commons License](https://licensebuttons.net/l/zero/1.0/88x31.png)
+
+This work is licensed under [CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).
