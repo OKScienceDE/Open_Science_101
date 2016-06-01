@@ -85,3 +85,4 @@ content community. He ...
 - ... is very skilled in generating informative and beatiful graphics
   that explain difficult topics in an easy way
 - ... has a basic understanding of Open Science
+- ... can upload his graphics to the respective Open Science 101 topic via the GitHub web-interface
