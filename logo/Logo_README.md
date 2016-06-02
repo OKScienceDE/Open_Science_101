@@ -2,4 +2,4 @@
 
 Version 1
 
-The SVG file was generated with Inkscape and then exproted to png.
+The SVG file was generated with Inkscape and then exported to png.
