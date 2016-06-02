@@ -53,20 +53,20 @@ addition many of the listed tools and services might be mainly relevant to
 specific contexts (disciplines), but not very useful in others. This might
 limit the usefulness of the collection itself.
 
-However, there are attemts to do such a thing (blogposts, wiki lists, etc.).
+However, there are attempts to do such a thing (blogposts, wiki lists, etc.).
 
 ### What we DO want to achieve
 
 Instead we want to come up with a set of educational resources that
-provide usable teaching material elaborating the basic principles of Open
+provide usable teaching material elaborating on the basic principles of Open
 Science that most of the different contexts (e.g. disciplines), if not all,
 have in common.
 
 This material can then be easily adapted (e.g. forked) and complemented by
 e.g. domain-specific tools, regulations, or any other particular topics.
 
-Over time, this would hopefully build an extended variety of educational material
-for many different contexts.
+Over time, this will hopefully build an extended variety of educational materials
+that can be used for many different contexts.
 
 ## Current Status
 
@@ -78,7 +78,7 @@ contribute to the discussion and to share ideas.
 
 Our role models for this repository are Software Carpentry (http://software-carpentry.org/)
 and Data Carpentry (http://www.datacarpentry.org/). Both initiatives host
-all their teaching material public in GitHub repositories so the content
+all their teaching material publicly in GitHub repositories so the content
 can be easily crowd-sourced (see e.g. http://software-carpentry.org/lessons/).
 We will try to adhere to their style as far as this is suitable.
 
@@ -92,7 +92,7 @@ The content of this collection is licensed under a [Creative Commons Zero licens
 ## Contributing
 
 We're happy to invite you to contribute, [please have a look](https://github.com/OKScienceDE/Open_Science_101/blob/master/CONTRIBUTING.md)
-how and where! We expect of all participants to follow the [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
+to see how and where! We expect of all participants to follow our [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
