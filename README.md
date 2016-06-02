@@ -83,7 +83,7 @@ can be easily crowd-sourced (see e.g. http://software-carpentry.org/lessons/).
 We will try to adhere to their style as far as this is suitable.
 
 We are aware that this is not the first attempt to generate such a
-collection but in our opinion there is no comprehensive resource
+collection, but in our opinion, there is no comprehensive resource
 covering all the required topics.
 
 The content of this collection is licensed under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -96,12 +96,12 @@ to see how and where! We expect of all participants to follow our [Code of Condu
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
-At the upcoming [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
--- an event with local and virtual meetings -- we will work on the
+At the currently ongoing [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
+-- an event with local and virtual meetings -- we are working on the
 compendium. Again, you are invited to join us (which you can announce here:
 https://github.com/mozillascience/global-sprint-2016/issues/36).
 
-For the two days sprint we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
+For the two-day sprint, we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
 that contains the issues we want to particularly concentrate on within the sprint - these
 are also good starting points if you want to join!
 
