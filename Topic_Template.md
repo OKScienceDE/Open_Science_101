@@ -1,12 +1,12 @@
 # Meta - Topic template - About this document
 
-Below you find the template for a Open Science 101 topic inclusive a description how to extend it.
+Below you will find a template for an Open Science 101 topic including a description on how to extend it.
 
 General notes:
 
-* The document should have maxiumum XXXX words in total.
-* This document should NOT contain community specific approaches. Those can be provided as separate documents.
-* Images: Besides the visual abstract it would be beneficial to have high quality visualizations of the topic that can be reused. Please focus on quality and not quantitiy and generate the images in SVG format as well as being exportable to at least 600 dpi for PNG formats. If you are using third party images please make sure that these have a suitable licence for use within this material.
+* The document should have a maxiumum of XXXX words in total.
+* This document should NOT contain any community specific approaches - those can be provided as separate documents.
+* Images: Besides the visual abstract we would encourage to include high quality visualizations of the topic that could be reused. Please focus on quality and not quantitiy and generate the images in SVG format or makes sure that images can be exported to at least 600 dpi for PNG formats. If you are using third party images please make sure that these have a suitable licence for use within this material.
 
 
 # Topic title
@@ -23,8 +23,10 @@ General notes:
 
 ## Learning objectives
 
-* A bullet lits with boxes to tick. Please do not exceed 10 items.
+* A set of checkboxes learning objectives to tick off. Please do not exceed 10 items.
 
+- [ ] Objective 1 
+- [ ] Objective 2
 
 ## Main text
 
