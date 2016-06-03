@@ -9,6 +9,7 @@
 5. [Current Status](#current-status)
 6. [Contributing](#contributing)
 7. [Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)](#mozilla-science-lab-global-sprint-2016-2nd---3rd-june-2016)
+8. [License](#license)
 
 ## General Problem
 
