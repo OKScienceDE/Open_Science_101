@@ -43,6 +43,10 @@ There are quite a number of approaches how this can be undertaken and
 a number of projects doing this for either certain topics or certain
 target groups. However, there does not seem to be a concerted approach.
 
+For a more detailed description of our target audience as well as
+potential contributor we would like to refere to our [personas
+file](PERSONAS.md).
+
 _"Open Science 101" is the current working title and might be changed
 in the future dependent on the actual content._
 
