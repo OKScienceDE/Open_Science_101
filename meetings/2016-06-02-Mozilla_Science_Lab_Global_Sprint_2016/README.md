@@ -21,3 +21,4 @@ The topics that will be worked on hence are:
 
 To facilitate the work, a markdown template will be created that can be easily exported into PDF handouts etc. for teaching.
 
+A name change to "Open Science Carpentry" has been discussed and a mail explaining this consideration has been sent to the [Software Carpentry mailing list](http://lists.software-carpentry.org/listinfo/discuss). The final email text is exported from the [etherpad](https://pad.okfn.org/p/OpenScience101MailSoftwareCarpentry) to the file [OpenScience101MailSoftwareCarpentry.txt](OpenScience101MailSoftwareCarpentry.txt).
