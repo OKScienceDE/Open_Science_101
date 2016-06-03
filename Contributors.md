@@ -15,7 +15,7 @@ Name, affiliation, GitHub handle (optional)
 * Daniel Mietchen, NIH, @Daniel-Mietchen
 * Tamara Heck, Heinrich-Heine-Universität Düsseldorf, @marahe
 * Jonathan Dugan, , @jmdugan
-* Mario Antonioletti, , @marioa
+* Mario Antonioletti, EPCC/SSI, University of Edinburgh, @marioa
 * Patricia Herterich, University of Birmingham, @pherterich
-* Selina Aragon, , @selina-aragon
+* Selina Aragon, EPCC/SSI, University of Edinburgh, @selina-aragon
 * Sascha Fiesike, University of Würzburg, @friesike
