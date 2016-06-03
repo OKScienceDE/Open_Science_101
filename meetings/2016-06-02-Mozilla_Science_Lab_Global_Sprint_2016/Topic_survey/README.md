@@ -5,7 +5,7 @@ In order to get a feeling which Open Science related topic should be
 first adressed we set up a survey and also asked people to give
 feedback via the issues at GitHub.
 
-A snapshot of [the etherpad with topics and short descriptions](https://pad.okfn.org/p/OpenScience101topicsuggestions) can be found in [OpenScience101topicsuggestions.md](OpenScience101topicsuggestions.md).
+The final version of [the etherpad with topics and short descriptions](https://pad.okfn.org/p/OpenScience101topicsuggestions) can be found in [OpenScience101topicsuggestions.md](OpenScience101topicsuggestions.md).
 
 The survey was started and send to communities at Thursday 2016-06-02.
 

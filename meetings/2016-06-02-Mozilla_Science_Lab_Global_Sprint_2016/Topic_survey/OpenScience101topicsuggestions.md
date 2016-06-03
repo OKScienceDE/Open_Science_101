@@ -1,4 +1,4 @@
-This is a snapshot of the etherpad at <https://pad.okfn.org/p/OpenScience101topicsuggestions> on 2016-06-03 14:45
+This is the final version of the etherpad at <https://pad.okfn.org/p/OpenScience101topicsuggestions> (2016-06-03 16:00)
 
 We invite all visitors to vote on each of these topics, if you think a topic is especially relevant, in their corresponding GitHub issues (linked below) with a GitHub reaction function to a comment. Tomorrow morning we will count the votes and focus on the most popular topics to create our first draft material.
 
@@ -6,7 +6,7 @@ These topics are all part of the research cycle in science, see e.g.: https://sc
 
 The #meta tag indicates topics that don't directly relate to Open Science facettes (like Open Source, Open Access etc.), but ideas/incentives that relate to Open Science.
 
-Topic suggestions (we have a subpad for the de:
+Topic suggestions:
   * Include live coverage of open science ( https://github.com/OKScienceDE/Open_Science_101/issues/1 ) #meta
   * Clarify that Open Science refers to all scholarly domains, not just "Science" ( https://github.com/OKScienceDE/Open_Science_101/issues/3 ) #meta: Gather current definitions of Open Science,define framework of what Open Science means for this project (make emphasis on reference to other areas of knowledge). 
   * Discuss entry points ( https://github.com/OKScienceDE/Open_Science_101/issues/4 ) #meta: any entry point possible, citizen scientist, undergraduates, PhD, postdocs, PI, Professor. Also, start easy with maybe some text disseminated from Google docs (maybe even crowdsourced), or Open Data in Zenodo, or if you can program open source code on GitHub  Why does entry have to be through coding? I am a scientist AND do NOT code. Nor do I feel it is necessary to, either for learning about open science or practicing open science. Yes, you're right, I will turn the order around.
