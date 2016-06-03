@@ -31,6 +31,9 @@ There will be two sites where we will be available in person during the sprint:
 Further information including how to join us remotely can be found in
 [this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint).
 
+## Add yourself to Contributors.md
+If you have contributed to this repo please add yourself to Contributors.md (https://github.com/OKScienceDE/Open_Science_101/blob/master/Contributors.md), how to do that is described in the file.
+
 ## Further Steps: Roadmap
 
 Over time we will develop/extent a [roadmap](https://github.com/OKScienceDE/Open_Science_101/wiki/Roadmap) that provides a bit more oversight of what the current goals are and what the next goals will be.

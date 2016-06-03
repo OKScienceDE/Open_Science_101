@@ -53,20 +53,20 @@ addition many of the listed tools and services might be mainly relevant to
 specific contexts (disciplines), but not very useful in others. This might
 limit the usefulness of the collection itself.
 
-However, there are attemts to do such a thing (blogposts, wiki lists, etc.).
+However, there are attempts to do such a thing (blogposts, wiki lists, etc.).
 
 ### What we DO want to achieve
 
 Instead we want to come up with a set of educational resources that
-provide usable teaching material elaborating the basic principles of Open
+provide usable teaching material elaborating on the basic principles of Open
 Science that most of the different contexts (e.g. disciplines), if not all,
 have in common.
 
 This material can then be easily adapted (e.g. forked) and complemented by
 e.g. domain-specific tools, regulations, or any other particular topics.
 
-Over time, this would hopefully build an extended variety of educational material
-for many different contexts.
+Over time, this will hopefully build an extended variety of educational materials
+that can be used for many different contexts.
 
 ## Current Status
 
@@ -78,12 +78,12 @@ contribute to the discussion and to share ideas.
 
 Our role models for this repository are Software Carpentry (http://software-carpentry.org/)
 and Data Carpentry (http://www.datacarpentry.org/). Both initiatives host
-all their teaching material public in GitHub repositories so the content
+all their teaching material publicly in GitHub repositories so the content
 can be easily crowd-sourced (see e.g. http://software-carpentry.org/lessons/).
 We will try to adhere to their style as far as this is suitable.
 
 We are aware that this is not the first attempt to generate such a
-collection but in our opinion there is no comprehensive resource
+collection, but in our opinion, there is no comprehensive resource
 covering all the required topics.
 
 The content of this collection is licensed under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
@@ -92,16 +92,16 @@ The content of this collection is licensed under a [Creative Commons Zero licens
 ## Contributing
 
 We're happy to invite you to contribute, [please have a look](https://github.com/OKScienceDE/Open_Science_101/blob/master/CONTRIBUTING.md)
-how and where! We expect of all participants to follow the [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
+to see how and where! We expect of all participants to follow our [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
-At the upcoming [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
--- an event with local and virtual meetings -- we will work on the
+At the currently ongoing [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
+-- an event with local and virtual meetings -- we are working on the
 compendium. Again, you are invited to join us (which you can announce here:
 https://github.com/mozillascience/global-sprint-2016/issues/36).
 
-For the two days sprint we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
+For the two-day sprint, we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
 that contains the issues we want to particularly concentrate on within the sprint - these
 are also good starting points if you want to join!
 
