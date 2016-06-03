@@ -9,7 +9,7 @@ Everybody who contributed to this repo is invited to include himself here (eithe
 Name, affiliation, GitHub handle (optional)
 
 * Matthias Fromm, Open Science Radio, @matthiasfromm
-* Konrad Förstner, University of Würzburg, @konrad
+* Konrad Förstner, University of Würzburg/Open Science Radio, @konrad
 * Andreas Leimbach, University of Würzburg/Göttingen/Münster, @aleimba
 * Markus Ankenbrand, University of Würzburg, @iimog
 * Daniel Mietchen, NIH, @Daniel-Mietchen
