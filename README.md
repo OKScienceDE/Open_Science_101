@@ -31,7 +31,7 @@ who would like to get quickly an overview of core Open Science
 concepts as well as anybody interested in Open Science. The materials
 are available under the [CC0 1.0 Universal (CC0 1.0) Public Domain
 Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
-license.
+license to facilitate optimal reusability.
 
 This compendium aims to include documentation of the [different facets
 of Open
@@ -100,9 +100,6 @@ We will try to adhere to their style as far as this is suitable.
 We are aware that this is not the first attempt to generate such a
 collection, but in our opinion, there is no comprehensive resource
 covering all the required topics.
-
-The content of this collection is licensed under a [Creative Commons Zero license](https://creativecommons.org/publicdomain/zero/1.0/)
-(public domain) to facilitate optimal reusability.
 
 ## Contributing
 
