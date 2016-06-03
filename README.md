@@ -33,11 +33,13 @@ are available under the [CC0 1.0 Universal (CC0 1.0) Public Domain
 Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 license.
 
-This compendium aims to include documentation of the [different facets of Open Science](https://github.com/aleimba/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png)
-like Open Access, Open Data, Open Licenses, and Open Peer Review
-(see Facettes of Open Science). Our definition of Open Science is very
-broad - it also covers the opening of the humanities as well as
-Open Educational Resources and other related topics.
+This compendium aims to include documentation of the [different facets
+of Open
+Science](https://github.com/aleimba/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png)
+like Open Access, Open Data, Open Licenses, and Open Peer Review. Our
+definition of Open Science is very broad - it also covers the opening
+of the humanities as well as Open Educational Resources and other
+related topics.
 
 There are quite a number of approaches how this can be undertaken and
 a number of projects doing this for either certain topics or certain
