@@ -55,7 +55,7 @@ in the future dependent on the actual content._
 ### What we DON'T want to achieve
 
 The outcome of this project shall be more than merely a collection of
-resources (e.g. tools) supporting or Open Science within different
+resources (e.g. tools) supporting Open Science within different
 disciplinary contexts. This is for two reasons:
 
 1. Such a collection - in the most basic form this could be a list,
