@@ -111,7 +111,7 @@ There will be two sites where we will be available in person during the sprint:
 2. On Friday [Andreas](https://github.com/aleimba) and [Konrad](https://github.com/konrad) will be available at the [University of Würzburg](https://www.uni-wuerzburg.de/en/ueber/university/) (exact location to be announced soon)
 
 Further information including how to join us remotely can be found in
-**[this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint)**.
+**[this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint)** and our [meeting documentation](./meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016/).
 
 ## License
 
