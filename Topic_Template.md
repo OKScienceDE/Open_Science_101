@@ -49,7 +49,9 @@ How do you do this ..
 ## Glossary
 
 * Technical terms directly related to this specific topic and a brief definition
-* Entries like that: *Term* This term describes...
+* Entries like that: 
+
+**Open Bananas:** Open Bananas are bananas that are open ....
 
 ## License
 
