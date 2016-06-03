@@ -16,6 +16,6 @@ Name, affiliation, GitHub handle (optional)
 * Tamara Heck, Heinrich-Heine-Universität Düsseldorf, @marahe
 * Jonathan Dugan, , @jmdugan
 * Mario Antonioletti, , @marioa
-* Patricia Herterich, CERN, @pherterich
+* Patricia Herterich, University of Birmingham, @pherterich
 * Selina Aragon, , @selina-aragon
 * Sascha Fiesike, University of Würzburg, @friesike
