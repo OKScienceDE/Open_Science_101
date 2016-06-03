@@ -1,7 +1,7 @@
 # Personas and Pathways
 
-Here we define potential users and contributers and how they can fit
-into this project. For further information we would like to refer to
+Here we define potential users and contributors and how they fit
+into this project. For further information we would like to refer you to
 this [document which explains the purpose of
 personas](https://mozillascience.github.io/working-open-workshop/personas_pathways/).
 
@@ -10,27 +10,27 @@ personas](https://mozillascience.github.io/working-open-workshop/personas_pathwa
 ### Ida (lecturer)
 
 Ida is a researcher in life sciences working on fruit fly
-genetics. Since several years she has been part of the Open Science
-community and is very active there. Besides that she like modern art,
+genetics. For several years she has been part of the Open Science
+community and has been very active there. Besides that she likes modern art,
 Jazz music, and tries to get into soldering in her local hack space.
 
 She would like to teach an Open Science class but she knows
 establishing such a course from scratch requires a lot of work which
-she cannot squeez into her tight schedule. Ida searches the web for
+she cannot squeeze into her tight schedule. Ida does a search on the web for
 potential material and finds **Open Science 101**. As this reduces the
-preparation effort for her dramatically she desides to offer a class
-"Introduction to Open Science". After each lecture given she reports
-back to the **Open Science 101** team and points out material that is
-missing or that still need improvements.
+preparation effort for her dramatically she decides to offer an
+"Introduction to Open Science" class. After each lecture given she reports
+back to the **Open Science 101** team and points out if there is any material 
+that is missing or that needs improvement.
 
 ### Nick (student)
 
 Nick is a student of Physics and will soon start his Master in
-semi-conductor quantum mechanics. When talking to a PhD student during
-an intership he heard about problems in the current way science is
-conducted. He was informed that there is an Open Science movement that
+semi-conductor quantum mechanics. While talking to a PhD student during
+an intership he heard about problems in the way science is
+currently being conducted. He was informed that there is an Open Science movement that
 would like to change how science is performed and he got interested in
-learnig how he could apply these principles to his research.
+learning how he could apply these principles to his research.
 
 He finds a course about Open Science at his university that is given by
 Ida. Ida invites the participants of the course to give feedback to
@@ -40,14 +40,14 @@ improved.
 
 ### Natalia (citizien scientist / interested lay person)
 
-Natalia works as a lawyer at a larger company. At some point she
-recognized, inspired by books of Carl Sagan, how much fun
-science and engineering can be. Due to this she started some small
+Natalia works as a lawyer at a large company. At some point she
+recognized, inspired by the books of Carl Sagan, how much fun
+science and engineering can be. Because of this she started some small
 science projects in her spare time on her own. 
 
 On Twitter she stumbles accross a link to the **Open Science 101** project
 and reads the material of the different topics. Based on the newly
-aquired knowledge she makes her small project open and connects to the
+aquired knowledge she makes her small science project open and connects to the
 Open Science community by joining the OKFN Open Science mailing
 list. Some months later she gives a lightning talk about Open Science
 at a maker fair in her town. She uses some graphics and material taken
@@ -86,3 +86,4 @@ content community. He ...
   that explain difficult topics in an easy way
 - ... has a basic understanding of Open Science
 - ... can upload his graphics to the respective Open Science 101 topic via the GitHub web-interface
+

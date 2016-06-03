@@ -5,3 +5,6 @@ feedback via the issues at GitHub.
 The survey was started and send to communities at Thursday 2016-06-02.
 The first set of results was taken at 2016-06-03 11:00 and stored in
 the file `OS101_topic_voting_2016-06-03_11:00.csv`.
+This file has been updated at 2016-06-03 15:00 due to a bug in the github api script.
+
+The script to generate the counts from the github api is `get_upvote_counts_from_github.sh`
