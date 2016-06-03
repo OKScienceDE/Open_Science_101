@@ -12,7 +12,7 @@
 
 ## General Problem
 
-The principles and facets of open science have become increasingly
+The principles and [facets of Open Science](https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png) have become increasingly
 noted throughout the last couple of years. However, whereas Open
 Access has gained quite a lot of visibility, other facets are hardly
 visible and even less in action. In fact, many of the facets and
@@ -35,8 +35,8 @@ license to facilitate optimal reusability.
 
 This compendium aims to include documentation of the [different facets
 of Open
-Science](https://github.com/aleimba/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png)
-like Open Access, Open Data, Open Licenses, and Open Peer Review. Our
+Science](https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png)
+like Open Access, Open Data, Open Licenses, Open Peer Review etc. Our
 definition of Open Science is very broad - it also covers the opening
 of the humanities as well as Open Educational Resources and other
 related topics.
@@ -46,7 +46,7 @@ a number of projects doing this for either certain topics or certain
 target groups. However, there does not seem to be a concerted approach.
 
 For a more detailed description of our target audience as well as
-potential contributor we would like to refere to our [personas
+potential contributors we would like to refer to our [personas
 file](PERSONAS.md).
 
 _"Open Science 101" is the current working title and might be changed
@@ -72,13 +72,13 @@ However, there are attempts to do such a thing (blogposts, wiki lists, etc.).
 
 ### What we DO want to achieve
 
-Instead we want to come up with a set of educational resources that
+Instead, we want to come up with a set of educational resources that
 provide usable teaching material elaborating on the basic principles of Open
 Science that most of the different contexts (e.g. disciplines), if not all,
 have in common.
 
 This material can then be easily adapted (e.g. forked) and complemented by
-e.g. domain-specific tools, regulations, or any other particular topics.
+domain-specific tools, regulations, or any other particular topics.
 
 Over time, this will hopefully build an extended variety of educational materials
 that can be used for many different contexts.
