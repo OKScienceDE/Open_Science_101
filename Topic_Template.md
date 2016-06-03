@@ -23,7 +23,7 @@ General notes:
 
 ## Learning objectives
 
-* A set of checkboxes to tick. Please do not exceed 10 items.
+* A set of checkboxes learning objectives to tick off. Please do not exceed 10 items.
 
 - [ ] Objective 1 
 - [ ] Objective 2
