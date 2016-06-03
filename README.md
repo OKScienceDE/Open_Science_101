@@ -46,6 +46,10 @@ There are quite a number of approaches how this can be undertaken and
 a number of projects doing this for either certain topics or certain
 target groups. However, there does not seem to be a concerted approach.
 
+We're collecting all material that's already been made to introduce
+specific audiences to Open Science at
+[Open Science Q&A](https://openscience.uni-bielefeld.de/898/which-materials-exist-introducing-specific-audiences-science). Many of these resources save as templates for our material.
+
 For a more detailed description of our target audience as well as
 potential contributors we would like to refer to our [personas
 file](PERSONAS.md).
