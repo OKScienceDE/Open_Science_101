@@ -51,10 +51,13 @@ How do you do this ..
 ## Glossary
 
 * Technical terms directly related to this specific topic and a brief definition
+* A helpful starting point can be found with the Open Research Glossary by Jon Tennant and Ross Mounce available at Figshare ([https://dx.doi.org/10.6084/m9.figshare.1482094.v1](https://dx.doi.org/10.6084/m9.figshare.1482094.v1)) and the [Right to Research Coalition Resources](http://www.righttoresearch.org/resources/OpenResearchGlossary/index.shtml)
 * Entries like that: 
 
 **Open Bananas:** Open Bananas are bananas that are open ....
 
 ## License
+
+![Creative Commons License](https://licensebuttons.net/l/zero/1.0/88x31.png)
 
 All our material is set to CC0 (public domain, https://creativecommons.org/publicdomain/zero/1.0/).
