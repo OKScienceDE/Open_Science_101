@@ -90,7 +90,7 @@ that can be used for many different contexts.
 
 ## Current Status
 
-_Current Status: IN PREPARATION_
+_Current Status: IN PROGRESS (kickstarting sprint finished)_
 
 Currently we are [collecting ideas](https://github.com/OKScienceDE/Open_Science_101/issues)
 about the scope via the issue tracker and would invite everybody to
