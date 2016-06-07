@@ -113,19 +113,14 @@ to see how and where! We expect of all participants to follow our [Code of Condu
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
 
-At the currently ongoing [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
--- an event with local and virtual meetings -- we are working on the
-compendium. Again, you are invited to join us (which you can announce here:
-https://github.com/mozillascience/global-sprint-2016/issues/36).
+At the [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/global-sprint-2016)
+-- an event with local and virtual meetings -- we worked on the
+compendium. Here is our [project page](https://science.mozilla.org/projects/open-science-101) and
+the issue for the registration of the project (https://github.com/mozillascience/global-sprint-2016/issues/36).
 
 For the two-day sprint, we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
-that contains the issues we want to particularly concentrate on within the sprint - these
+that contains the issues we wanted to particularly concentrate on within the sprint - these
 are also good starting points if you want to join!
-
-There will be two sites where we will be available in person during the sprint:
-
-1. On Thursday [Matthias](http://github.com/matthiasfromm) will be at the sprint-site in [Berlin](https://ti.to/mozilla-science/gs2016-berlin)
-2. On Friday [Andreas](https://github.com/aleimba) and [Konrad](https://github.com/konrad) will be available at the [University of Würzburg](https://www.uni-wuerzburg.de/en/ueber/university/) (exact location to be announced soon)
 
 Further information including how to join us remotely can be found in
 **[this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint)** and our [meeting documentation](./meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016/).
