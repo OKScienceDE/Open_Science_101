@@ -1,6 +1,9 @@
 # Mozilla Science Lab Global Sprint 2016
 
-The [survey results](Open_Science_101/meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016/Topic_survey/OS101_topic_voting_2016-06-03_11:00.csv) suggested the topics to look at are
+We had a survey to ask the community on which Open Science topics
+we should focus on first (see [Topic_survey](Topic_survey)).
+
+The first [survey results](Open_Science_101/meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016/Topic_survey/OS101_topic_voting_2016-06-03_11:00.csv) from the 3<sup>rd</sup> of June suggested the topics to look at are
 * Open Data (21 votes)
 * Incentives for Open Science (16 votes)
 * Open Source (15 votes)
@@ -22,3 +25,10 @@ The topics that will be worked on hence are:
 To facilitate the work, a markdown template will be created that can be easily exported into PDF handouts etc. for teaching.
 
 A name change to "Open Science Carpentry" has been discussed and a mail explaining this consideration has been sent to the [Software Carpentry mailing list](http://lists.software-carpentry.org/listinfo/discuss). The final email text is exported from the [etherpad](https://pad.okfn.org/p/OpenScience101MailSoftwareCarpentry) to the file [OpenScience101MailSoftwareCarpentry.txt](OpenScience101MailSoftwareCarpentry.txt).
+
+The final [survey results](Topic_survey/OS101_topic_voting_2016-06-07.tsv) from the 7<sup>th</sup> of June are the following:
+
+<p align="center">
+  <img alt="final survey results" src="Topic_survey/OS101_topic_voting_2016-06-07.png">
+</p>
+
