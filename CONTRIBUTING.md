@@ -46,5 +46,7 @@ If you want to get in contact you can do so (for the moment) via Twitter:
 + [Matthias Fromm](https://twitter.com/matthiasfromm)
 + [Konrad Förstner](https://twitter.com/konradfoerstner)
 
+or by asking on the [mailing list](https://groups.google.com/forum/#!forum/openscience101)
+
 If you have questions/remarks regarding specific topics or issues, please leave comments in the related [issues](https://github.com/OKScienceDE/Open_Science_101/issues).
 

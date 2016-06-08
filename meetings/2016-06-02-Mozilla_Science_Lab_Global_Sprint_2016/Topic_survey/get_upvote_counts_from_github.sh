@@ -25,3 +25,22 @@ cat survey_github_comments.tsv | sort | datamash -g1 sum 2 >survey_github_commen
 # join the upvotes for issues and comments
 # due to a bug in join -e might not work and you get an empty value instead of 0 if an issue has no comments at all
 join <(sort survey_github_issues.tsv) <(sort survey_github_comments.sum.tsv) -a 1 -e 0 -t $'\t' | tee survey_github.tsv
+
+# Further to get a list of users that voted up you can do the following:
+# clear files if they exist from previous runs
+echo -n "">issue_upvotes_users
+echo -n "">comments_with_upvotes
+echo -n "">comment_upvotes_users
+for i in $(grep Include survey_github_issues.tsv | cut -f1 | rev | cut -f1 -d"/" | cut -c 2- | rev | grep -vwP "1|41")
+do
+    # Get a list of users that voted for this issue
+    curl $GITHUB_API_AUTH "https://api.github.com/repos/OKScienceDE/Open_Science_101/issues/$i/reactions?per_page=100&content=+1" -H "$GITHUB_ACCEPT_HEADER" | jq ".[] | .user.login " >>issue_upvotes_users
+    # Now get a list of comments with upvotes for this issue
+    curl $GITHUB_API_AUTH "https://api.github.com/repos/OKScienceDE/Open_Science_101/issues/$i/comments?per_page=100" -H "$GITHUB_ACCEPT_HEADER" | jq '.[] | if .reactions."+1" > 0 then .id else null end' | grep -v "^null$" >>comments_with_upvotes
+done
+for i in $(cat comments_with_upvotes)
+do
+    # Get a list of users that voted for each of the comments
+    curl $GITHUB_API_AUTH "https://api.github.com/repos/OKScienceDE/Open_Science_101/issues/comments/$i/reactions?per_page=100&content=+1" -H "$GITHUB_ACCEPT_HEADER" | jq ".[] | .user.login " >>comment_upvotes_users
+done
+cat issue_upvotes_users comment_upvotes_users | sort | uniq -c | tee github_voters

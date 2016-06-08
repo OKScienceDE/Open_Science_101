@@ -1,0 +1,12 @@
+Dear Software Carpentry community,
+
+We recently founded a project aimed to generate teaching material about Open Science concepts (not tools!) [1]. The materials are available under a CC0 license to facilitate optimal reusability. Currently, we are participating in the Mozilla Science Lab Global Sprint and used the last two days to work on several issues. We were able to gain several contributors and have several people who are interested in a long term involvement. The project is heavily inspired by Software Carpentry (some of us are SWC instructors) and the plan is to develop the material via git/GitHub and allocate maintainers to each topic, but we are open to any contributions from the community. We want to start with a small set of flagship topics that are used as showcases and then expand the collection to more facets of Open Science.
+
+The current working title is "Open Science 101" but as we feel very close to the Software/Data Carpentry community, and even share members and aims, we are currently considering changing the name of the project to "Open Science Carpentry". A counter argument would be that our materials aim to teach abstract concepts and not concrete skills as SWC. We would like to hear your opinion regarding this and would be happy about your feedback.
+
+Thanks a lot in advance,
+the Open Science 101 contributors
+
+[1] https://github.com/OKScienceDE/Open_Science_101
+
+
