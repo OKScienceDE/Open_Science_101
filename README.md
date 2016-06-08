@@ -129,8 +129,7 @@ Further information  found in
 
 [Matthias](http://github.com/matthiasfromm/) wrote a detailed [blog
 post about the project and the
-MozSprint](http://www.offene-wissenschaft.de/2016/06/open-science-101-and-my-first-mozilla-science-global-sprint-mozsprint/)
-and [Andreas](http://github.com/aleimba),
+MozSprint](http://www.offene-wissenschaft.de/2016/06/open-science-101-and-my-first-mozilla-science-global-sprint-mozsprint/). [Andreas](http://github.com/aleimba),
 [Markus](http://github.com/iimog) and
 [Konrad](https://github.com/konrad) recorded a [podcast
 episode](http://www.openscienceradio.de/2016/06/03/osr053-sprint-report-open-science-101-at-mozsprint-2016/)
