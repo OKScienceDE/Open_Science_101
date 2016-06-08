@@ -118,12 +118,23 @@ At the [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/g
 compendium. Here is our [project page](https://science.mozilla.org/projects/open-science-101) and
 the issue for the registration of the project (https://github.com/mozillascience/global-sprint-2016/issues/36).
 
-For the two-day sprint, we've created a [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
-that contains the issues we wanted to particularly concentrate on within the sprint - these
-are also good starting points if you want to join!
+For the two-day sprint, we've created a
+[milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
+that contains the issues we wanted to particularly concentrate on
+within the sprint - these are also good starting points if you want to
+join!
 
-Further information including how to join us remotely can be found in
+Further information  found in
 **[this etherpad](https://pad.okfn.org/p/OpenScience101MozillaScienceLabGlobalSprint)** and our [meeting documentation](./meetings/2016-06-02-Mozilla_Science_Lab_Global_Sprint_2016/).
+
+[Matthias](http://github.com/matthiasfromm/) wrote a detailed [blog
+post about the project and the
+MozSprint](http://www.offene-wissenschaft.de/2016/06/open-science-101-and-my-first-mozilla-science-global-sprint-mozsprint/)
+and [Andreas](http://github.com/aleimba),
+[Markus](http://github.com/iimog) and
+[Konrad](https://github.com/konrad) recorded a [podcast
+episode](http://www.openscienceradio.de/2016/06/03/osr053-sprint-report-open-science-101-at-mozsprint-2016/)
+about it.
 
 ## License
 
