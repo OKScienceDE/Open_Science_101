@@ -16,20 +16,20 @@
 The principles and [facets of Open Science](https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png) have become increasingly
 noted throughout the last couple of years. However, whereas Open
 Access has gained quite a lot of visibility, other facets are hardly
-visible and even less in action. In fact, many of the facets and
-principles are mainly known to those who are interested in working
+apparent and seen even less in action. In fact, many of the facets and
+principles are mainly known and applied by those who are interested in working
 openly anyway. Fostering (facets of) Open Science should not only be
-a case of "preaching to the converted", but to give anybody an
+a case of "preaching to the converted", but also to give anyone an
 understanding of the concepts, principles, opportunities and challenges
-of the related subjects.
+of these related subjects.
 
 ## Aim
 
 This project aims to generate high quality, concise teaching materials
 of Open Science principles. The target audience are teachers who would
-like to build courses based on the material, students and researcher
-who would like to get quickly an overview of core Open Science
-concepts as well as anybody interested in Open Science. The materials
+like to build courses based on this material, students and researcher
+who would like to quickly get an overview of core Open Science
+concepts as well as anyone that is interested in Open Science. The materials
 are available under the [CC0 1.0 Universal (CC0 1.0) Public Domain
 Dedication](https://creativecommons.org/publicdomain/zero/1.0/)
 license to facilitate optimal reusability.
@@ -37,7 +37,7 @@ license to facilitate optimal reusability.
 This compendium aims to include documentation of the [different facets
 of Open
 Science](https://github.com/OKScienceDE/Facettes_of_Open_Science/blob/master/facettes_of_open_science.png)
-like Open Access, Open Data, Open Licenses, Open Peer Review etc. Our
+like: Open Access, Open Data, Open Licenses, Open Peer Review, etc. Our
 definition of Open Science is very broad - it also covers the opening
 of the humanities as well as Open Educational Resources and other
 related topics.
@@ -46,9 +46,9 @@ There are quite a number of approaches how this can be undertaken and
 a number of projects doing this for either certain topics or certain
 target groups. However, there does not seem to be a concerted approach.
 
-We're collecting all material that's already been made to introduce
+We are collecting existing material that's already been made to introduce
 specific audiences to Open Science at
-[Open Science Q&A](https://openscience.uni-bielefeld.de/898/which-materials-exist-introducing-specific-audiences-science). Many of these resources save as templates for our material.
+[Open Science Q&A](https://openscience.uni-bielefeld.de/898/which-materials-exist-introducing-specific-audiences-science). Many of these resources serve as templates for our material.
 
 For a more detailed description of our target audience as well as
 potential contributors we would like to refer to our [personas
@@ -57,21 +57,21 @@ file](PERSONAS.md).
 _"Open Science 101" is the current working title and might be changed
 in the future dependent on the actual content._
 
-### What we DON'T want to achieve
+### What we DO NOT want to achieve
 
 The outcome of this project shall be more than merely a collection of
 resources (e.g. tools) supporting Open Science within different
 disciplinary contexts. This is for two reasons:
 
-1. Such a collection - in the most basic form this could be a list,
-in a more sophisticated form this could be a database - would be very
+1. Such a collection - in its most basic form would be a list of resources,
+in a more sophisticated form this could be a database which would be very
 difficult to maintain as old tools and services are discontinued or new
 tools arise in quite a rapid manner.
 2. Such a collection would be quite extensive in its scope and would
 quickly become long and more difficult to handle for interested users. In
-addition many of the listed tools and services might be mainly relevant to
-specific contexts (disciplines), but not very useful in others. This might
-limit the usefulness of the collection itself.
+addition many of the tools and services listed might be relevant within
+a specific context (discipline), but not very useful in others. This might
+limit the general usefulness of the collection itself.
 
 However, there are attempts to do such a thing (blogposts, wiki lists, etc.).
 
@@ -93,7 +93,7 @@ that can be used for many different contexts.
 _Current Status: IN PROGRESS (kickstarting sprint finished)_
 
 Currently we are [collecting ideas](https://github.com/OKScienceDE/Open_Science_101/issues)
-about the scope via the issue tracker and would invite everybody to
+about the scope via the issue tracker and would invite anybody to
 contribute to the discussion and to share ideas.
 
 Our role models for this repository are Software Carpentry (http://software-carpentry.org/)
@@ -108,7 +108,7 @@ covering all the required topics.
 
 ## Contributing
 
-We're happy to invite you to contribute, [please have a look](https://github.com/OKScienceDE/Open_Science_101/blob/master/CONTRIBUTING.md)
+We are happy to invite you to contribute, [please have a look](https://github.com/OKScienceDE/Open_Science_101/blob/master/CONTRIBUTING.md)
 to see how and where! We expect of all participants to follow our [Code of Conduct](https://github.com/OKScienceDE/Open_Science_101/blob/master/CODE_OF_CONDUCT.md).
 
 ### Mozilla Science Lab Global Sprint 2016 (2nd - 3rd June, 2016)
@@ -118,7 +118,7 @@ At the [Mozilla Science Lab Global Sprint 2016](https://www.mozillascience.org/g
 compendium. Here is our [project page](https://science.mozilla.org/projects/open-science-101) and
 the issue for the registration of the project (https://github.com/mozillascience/global-sprint-2016/issues/36).
 
-For the two-day sprint, we've created a
+For the two-day sprint, we have created a
 [milestone](https://github.com/OKScienceDE/Open_Science_101/milestones/Mozilla%20Science%20Global%20Sprint%202016)
 that contains the issues we wanted to particularly concentrate on
 within the sprint - these are also good starting points if you want to
